@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+
+    <string name="arm_day">Arms Day</string>
+    <string name="chest_day">chest Day</string>
+    <string name="legs_day">legs Day</string>
+    <string name="shoulder_day">Shoulders Day</string>
+    <string name="back_day">Back Day</string>
+    <string name="abs_day">Abs Day</string>
+
+    <string name="arms_details">Arms enable us to accomplish tasks, communicate, express emotions, and embrace others. They support independence, aid in mobility, and play a pivotal role in daily life and interactions.</string>
+    <string name="chest_details">The chest houses vital organs, supports breathing, and facilitates movement. Strong chest muscles promote stability, aid in various exercises, and contribute to overall functional strength and posture.</string>
+    <string name="legs_details">Legs are fundamental for mobility, supporting body weight, and facilitating movement. They enable walking, running, and balance, crucial for daily activities, sports, and maintaining an active lifestyle.</string>
+    <string name="shoulder_details">Shoulders allow a wide range of arm movements, supporting daily tasks and sports. They contribute to posture, upper body strength, and overall functionality in various physical activities and gestures.</string>
+    <string name="back_details">The back supports the spine, providing stability and flexibility crucial for posture, movement, and lifting. Strong back muscles aid in preventing injury and support overall body strength and functionality.</string>
+    <string name="abs_details">Abs, or abdominal muscles, stabilize the core, aiding in balance, posture, and protecting the spine. Strong abs contribute to overall strength and support in various physical activities and movements.</string>
+</resources>
